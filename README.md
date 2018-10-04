@@ -4,10 +4,10 @@ Understanding design patterns is an important part for writing scalable and main
 We discuss three categories of design patterns each having multiple types.
 
 -   Creational Patterns 
-        ..* Singleton Pattern
-        ..* Prototype Pattern
-        ..* Factory Pattern
-        ..* Builder Pattern
+    - Singleton Pattern
+    - Prototype Pattern
+    - Factory Pattern
+    - Builder Pattern
 -   Structural Patterns
 -   Behavioral 
  
